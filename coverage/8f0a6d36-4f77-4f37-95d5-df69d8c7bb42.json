@@ -1,0 +1,17 @@
+{
+  "scriptId": "82",
+  "url": "file:///workspaces/deno_todo/src/test_deps.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 323,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

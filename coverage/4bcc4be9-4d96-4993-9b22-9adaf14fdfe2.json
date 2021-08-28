@@ -1,0 +1,28 @@
+{
+  "scriptId": "80",
+  "url": "file:///workspaces/deno_todo/1a4e2c85-2229-4f36-a2b6-45f22e07793d$deno$test.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 294,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 87,
+          "endOffset": 120,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

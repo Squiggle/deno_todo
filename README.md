@@ -1,10 +1,11 @@
 # Deno TODO
 
-An playground app for experimenting with Deno and development practices
+An playground app for experimenting with Deno and VS Code remote development
+practices.
 
 Order of play:
 
-0. Set up VS Code Remote Development. All development should be done on a
+0. ✅ Set up VS Code Remote Development. All development should be done on a
    deterministic stack.
 1. Deno TDD TODO App. Create a basic TODO web application (server-side rendered)
    to understand how Deno works.
@@ -23,8 +24,8 @@ https://github.com/btholt/deno-dev-container-example.
 `.devcontainer/Dockerfile` Dockerfile is based on Debian 10.
 
 - Installs Deno to `/deno` and makes available on PATH.
-- Installs `denon` (Deno filesystem watcher) as a script to improve development
-  process
+- Installs [Denon](https://github.com/denosaurs/denon) the Deno filesystem
+  watcher) as a script to improve development process
 - `.devcontainer/devcontainer.json` includes the Deno extension for VS Code
 
 ## Deno commands
